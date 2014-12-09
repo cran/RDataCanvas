@@ -1,0 +1,12 @@
+390fcb2ce88991de1d4ff1f80ecc19cf *DESCRIPTION
+64164db37e4d948a13f693561916fa59 *LICENSE
+1fa8d2c688fb9fbc94968a0eadf23ed3 *NAMESPACE
+fe4f3c9cddf40d25cad96afe753cf09d *R/DCRuntime.R
+b16967b4afaacb8569f1f4eb21d041b7 *R/moduleR-package.r
+55ca8b24e937136454932ef0a4be8827 *README.md
+391113394b12f9b54aad919da58b1f44 *man/DCRuntime.Rd
+e23758896f5a0d8d8aa85885fe61c2e4 *man/RDataCanvas.Rd
+a13774453b410cf56a5085f22af1eb44 *tests/testthat.R
+44df3b7a7152bdccd5e1523d3212421c *tests/testthat/spec.json
+11c8b8bfe070676d91bbe8cbe56e7bf7 *tests/testthat/test-basic.R
+ea298369ccba1f32921a60d8bdd5b05a *tests/testthat/zetrt.json
